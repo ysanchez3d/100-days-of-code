@@ -1,9 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 11, 2024
+### Day 1: February 1, 2024
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started [Boot.dev](boot.dev) back-end development program. I finished chapters 1-4 of the "Learn Python" course. I covered some basic concepts: `variables`, `strings`, `functions declarations`, and 'scope'.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Key Python Notes**
 
-**Link to work:** [Calculator App](http://www.example.com)
+- Python uses **snake_case** convetion
+- **Spaces** MUST be correct for functions, loops, statement, etc... to work properly
+- Functions that don't have a `return` keyword automatically return the `None` data type
+- Floored Division operator "//" >>> `7 // 3 == 2`
+- Valid operators like in JS `+=, -=, *=, /=`
+- Exponent operator "**" >>> `3**2 == 9`
+
+**Thoughts:** So far I'm very happy with the course, it is very intuitive and every lesson has hands-on coding. Looking forward to be done with the basic chapters.
+
+**Link to work:** [NONE](#)
