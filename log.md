@@ -57,3 +57,16 @@
 **Today's Progress**: Practiced TDD by writing specs and then writing the methods. Today I implemented `push()`, `pop()`, `unshift()`, `shift()` on a custom Dynamic Array data structure. Then I practice CSS by doing todays challenge on (https://icodethis.com). Links to todays work below.
 
 **Link to work:**[iCodeThis CSS Challenge](https://iCodeThis.com/submissions/66991), [Dynamic Array](https://github.com/ysanchez3d/DataStructures-and-Algorithms-Daily/blob/main/data_structures/dynamicArray.js), [Specs](https://github.com/ysanchez3d/DataStructures-and-Algorithms-Daily/blob/main/test/dynamicArray-spec.js)
+
+### Day 4: February 3, 2024
+
+**Today's Progress**: Today I completed chapter 10 of the Python course on Boot.Dev. I learned about Dictionaries. I then worked iCodeThis.com daily challenge and practiced CSS positioning. Links to work below..
+
+**Link to work:**[iCodeThis CSS Challenge](https://iCodeThis.com/submissions/67215)
+
+### Day 5: February 4, 2024
+
+**Today's Progress**:  
+**Key Notes**  
+**Thoughts:**  
+**Link to work:**
