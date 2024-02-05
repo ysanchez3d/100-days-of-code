@@ -66,6 +66,12 @@
 
 ### Day 5: February 4, 2024
 
+**Today's Progress**: Did some of iCodeThis.com daily challenge. Link to work below.
+
+**Link to work:**[iCodeThis CSS Challenge](https://icodethis.com/submissions/67381)
+
+### Day 6: February 5, 2024
+
 **Today's Progress**:  
 **Key Notes**  
 **Thoughts:**  
