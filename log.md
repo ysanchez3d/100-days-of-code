@@ -72,6 +72,26 @@
 
 ### Day 6: February 5, 2024
 
+**Today's Progress**: Completed Chapters 11 and 12 of the Python course on Boot.dev. Learned about Sets and Error/raising exceptions in Python. Afterwards I built a project that allows users to click a region of the planet(Americas, Europe, Africa, etc...) and then all countries that belong to that region will display with their corresponding flag. Countries Api used from (https://restcountries.com).
+
+**Key Notes**
+
+- Create set: `fruits = {'apple', 'banana', 'mango'}`, `empty_set = Set()`
+- Sets are unordered, and guarantee uniqueness
+- Add to set: `my_set.add(value)`
+- Remove from set: `my_set.remove(value)`
+- Convert a List to a Set: #use "set" function `set(list)`
+- Convert a Set to a List: #use "list" function `list(set)`
+- Two sets may be subtracted using the '-' minus operator.
+- Exception errors happen during program execution.
+- use `try-except` pattern to handle Exceptions
+- Raise Exception: `raise Exception("something bad happening..")`
+- Whenever you think something bad could happen in the code always try to raise errors yourself.
+
+**Link to work:**[World Countries Project](https://github.com/ysanchez3d/world-countries)
+
+### Day 7: February 6, 2024
+
 **Today's Progress**:  
 **Key Notes**  
 **Thoughts:**  
