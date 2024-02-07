@@ -92,6 +92,12 @@
 
 ### Day 7: February 6, 2024
 
+**Today's Progress**: Today I completed the "Learn Python" course on Boot.dev. I then started the "Terminals and Shells" course and completed chapter 1 and 2. Ended the day by building a payment form with html/css. Links below.
+
+**Link to work:**[Payment Form on iCodeThis](https://icodethis.com/submissions/67731)
+
+### Day 7: February 6, 2024
+
 **Today's Progress**:  
 **Key Notes**  
 **Thoughts:**  
