@@ -96,7 +96,13 @@
 
 **Link to work:**[Payment Form on iCodeThis](https://icodethis.com/submissions/67731)
 
-### Day 7: February 6, 2024
+### Day 8: February 7, 2024
+
+**Today's Progress**: Today I made a chrome extension that lets you pick any color from a webpage and copies the HEX value to the clipboard for easy copy/paste access.
+
+**Link to work:**[Color Detective Extension](https://github.com/ysanchez3d/color-detective)
+
+### Day 9: February 8, 2024
 
 **Today's Progress**:  
 **Key Notes**  
