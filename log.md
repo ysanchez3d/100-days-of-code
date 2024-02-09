@@ -102,7 +102,49 @@
 
 **Link to work:**[Color Detective Extension](https://github.com/ysanchez3d/color-detective)
 
-### Day 9: February 8, 2024
+### Day 9: Thursday, February 8, 2024
+
+**Today's Progress**: Finished chapters 3 and 4 of the terminals and shells course on boot.dev. Build a profile card using html and css.
+
+**Key Notes**
+
+- Every folder and file have assigned permissions (read, write or execute)
+- Permissions example: (rwxrwxrwx)(3 for owner, 3 for group, 3 for everyone else)
+- Show permissions with `ls -l`
+- Change permissions with chmod command (e.g. `chmod -R u=rwx, g=, o= .`)(this says: change mode recursively set user, group and other on current directory ".")
+- .sh are shell scripts
+- Remove executing priviledges from a file: `chmod -x Filename`
+- Add executable privileges: `chmod +x Filename`
+- The root user can do anything in the system. Gain access through `sudo`
+- There are two types of executables: Compiled and interpreted
+  - Compiled programs: Go, C, Rust.
+  - Interpreted programs: Ruby, Python, JavaScript
+- `SH, Bash and ZSH` are all shells. The latter two are supersets of SH
+- Go to home directory: `cd ~`
+- When installed programs don't execute from the terminal, its because the path to the executable is not set in the $Path variable.
+- Add new path to $Path var: `export Path=$Path: absolute_path_here`
+  - Add the export statement to the shells config file(.zshrc) to persist it.
+- Manual command: `man ls` -> shows documentation for ls command, man grep, etc..
+- Show hidden files: `ls -a`
+- Single char flags use one "-". multi-char flags use two "--" dashes (e.g. -h, --help)
+- All programs exit with a 0 code. Anythign above 0 means there was an error.
+  - Use echo $? to check the code of your last executed terminal line
+- Redirecting stream output(STDOUT) to a file: `echo "Hello world" > hello.txt`
+- Redirecting error output(STDERR) to a file: `cat doesnotexist.txt 2> error.txt`
+- The pipe "|" can be used to send STDOUT of one program into STDIN of another
+  -(e.g `echo "hello there" | wc -w`) -> after echo pipe it to word count command.
+- Interrupt a program: Ctr+C
+- Kill a program: kill PID
+  - Displays all running processess: `ps aux`
+  - Filter node process: `ps aux | grep node` -> get the PID and then run the kill command.
+- **REMEMBER** `grep` searches for text, `less' shows text
+
+**Thoughts:**
+This was a long day with lots of information to take in. Will need to recap at the end of the week. Maybe write a blog post on what I learned.
+
+**Link to work:**[CSS Profile Card](https://www.frontendpro.dev/frontend-coding-challenges/profile-card-component-8LSC0uk1FvdLPAEUXiaY/solutions/co7LG95xO6toKa4G0WbG)
+
+### Day 10: Friday, February 8, 2024
 
 **Today's Progress**:  
 **Key Notes**  
