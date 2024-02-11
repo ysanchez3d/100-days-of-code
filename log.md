@@ -136,15 +136,161 @@
 - Interrupt a program: Ctr+C
 - Kill a program: kill PID
   - Displays all running processess: `ps aux`
-  - Filter node process: `ps aux | grep node` -> get the PID and then run the kill command.
-- **REMEMBER** `grep` searches for text, `less' shows text
+  - Filter node processes: `ps aux | grep node` -> get the PID and then run the kill command.
+- **REMEMBER** `grep` searches for text, `less` shows text
 
 **Thoughts:**
 This was a long day with lots of information to take in. Will need to recap at the end of the week. Maybe write a blog post on what I learned.
 
 **Link to work:**[CSS Profile Card](https://www.frontendpro.dev/frontend-coding-challenges/profile-card-component-8LSC0uk1FvdLPAEUXiaY/solutions/co7LG95xO6toKa4G0WbG)
 
-### Day 10: Friday, February 8, 2024
+### Day 10: Friday, February 9, 2024
+
+**Today's Progress**: Practiced CSS with daily iCodeThis challenge.
+
+**Link to work:**[iCodeThis work](https://icodethis.com/submissions/68215)
+
+### Day 11: Saturday, February 10, 2024
+
+**Today's Progress**:  
+**Key Notes**  
+**Thoughts:**  
+**Link to work:**
+
+### Day 12: Sunday, February 11, 2024
+
+**Today's Progress**:  
+**Key Notes**  
+**Thoughts:**  
+**Link to work:**
+
+### Day 13: Monday, February 12, 2024
+
+**Today's Progress**:  
+**Key Notes**  
+**Thoughts:**  
+**Link to work:**
+
+### Day 14: Tuesday, February 13, 2024
+
+**Today's Progress**:  
+**Key Notes**  
+**Thoughts:**  
+**Link to work:**
+
+### Day 15: Wednesday, February 14, 2024
+
+**Today's Progress**:  
+**Key Notes**  
+**Thoughts:**  
+**Link to work:**
+
+### Day 16: Thursday, February 15, 2024
+
+**Today's Progress**:  
+**Key Notes**  
+**Thoughts:**  
+**Link to work:**
+
+### Day 17: Friday, February 16, 2024
+
+**Today's Progress**:  
+**Key Notes**  
+**Thoughts:**  
+**Link to work:**
+
+### Day 18: Saturday, February 17, 2024
+
+**Today's Progress**:  
+**Key Notes**  
+**Thoughts:**  
+**Link to work:**
+
+### Day 19: Sunday, February 18, 2024
+
+**Today's Progress**:  
+**Key Notes**  
+**Thoughts:**  
+**Link to work:**
+
+### Day 20: Monday, February 19, 2024
+
+**Today's Progress**:  
+**Key Notes**  
+**Thoughts:**  
+**Link to work:**
+
+### Day 21: Tuesday, February 20, 2024
+
+**Today's Progress**:  
+**Key Notes**  
+**Thoughts:**  
+**Link to work:**
+
+### Day 22: Wednesday, February 21, 2024
+
+**Today's Progress**:  
+**Key Notes**  
+**Thoughts:**  
+**Link to work:**
+
+### Day 23: Thursday, February 22, 2024
+
+**Today's Progress**:  
+**Key Notes**  
+**Thoughts:**  
+**Link to work:**
+
+### Day 24: Friday, February 23, 2024
+
+**Today's Progress**:  
+**Key Notes**  
+**Thoughts:**  
+**Link to work:**
+
+### Day 25: Saturday, February 24, 2024
+
+**Today's Progress**:  
+**Key Notes**  
+**Thoughts:**  
+**Link to work:**
+
+### Day 26: Sunday, February 25, 2024
+
+**Today's Progress**:  
+**Key Notes**  
+**Thoughts:**  
+**Link to work:**
+
+### Day 27: Monday, February 26, 2024
+
+**Today's Progress**:  
+**Key Notes**  
+**Thoughts:**  
+**Link to work:**
+
+### Day 28: Tuesday, February 27, 2024
+
+**Today's Progress**:  
+**Key Notes**  
+**Thoughts:**  
+**Link to work:**
+
+### Day 29: Wednesday, February 28, 2024
+
+**Today's Progress**:  
+**Key Notes**  
+**Thoughts:**  
+**Link to work:**
+
+### Day 30: Thursday, February 29, 2024
+
+**Today's Progress**:  
+**Key Notes**  
+**Thoughts:**  
+**Link to work:**
+
+### Day 31: Friday, March 1, 2024
 
 **Today's Progress**:  
 **Key Notes**  
