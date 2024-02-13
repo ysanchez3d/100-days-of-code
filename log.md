@@ -152,24 +152,33 @@ This was a long day with lots of information to take in. Will need to recap at t
 
 ### Day 11: Saturday, February 10, 2024
 
-**Today's Progress**:  
-**Key Notes**  
-**Thoughts:**  
-**Link to work:**
+**Today's Progress**: Complete chapters 1-3 of Boot.Dev pyhton course. I learned about `Classes`, `Encapsulation`, and `Abstraction` in Python.
+**Key Notes**
+
+- Methods always take a "self" parameter as first argument which refers to the object itself.
+- Constructor method is called `__init__`
+- Instance Variables vary from object to object
+- Class variables remain the same across all instances of a class and are declared at the top of the class
+- Encapsulation: A technique for organizing the code (what should and should not be hidden)
+  - Use double underscores "\_\_" to prefix method and properties in order to make them private
+- Abstraction: A technique for designing an easy to use interface for complex behavior or data
+
+**Link to work:**[NONE]
 
 ### Day 12: Sunday, February 11, 2024
 
-**Today's Progress**:  
-**Key Notes**  
+**Today's Progress**: Worked on a TODO app using vanilla javascript(lord help me god and bless me with extra patience lol). Functionality implemented: `add items`, `check and uncheck completed items`
 **Thoughts:**  
-**Link to work:**
+ Having to do double the work by updating the code and then updating the UI is no fun. Need to start using react soon.
+**Link to work:** [TODO list](https://iCodeThis.com/submissions/68747)
 
 ### Day 13: Monday, February 12, 2024
 
-**Today's Progress**:  
-**Key Notes**  
-**Thoughts:**  
-**Link to work:**
+**Today's Progress**: Today I only practiced CSS. I'm starting to get much faster and having to use google less since I'm starting to become familiar with the property names and available values.
+
+**Thoughts:**
+Starting to enjoy CSS much more.
+**Link to work:** [Profile Card](https://iCodeThis.com/submissions/68779)
 
 ### Day 14: Tuesday, February 13, 2024
 
