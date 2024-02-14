@@ -182,10 +182,9 @@ Starting to enjoy CSS much more.
 
 ### Day 14: Tuesday, February 13, 2024
 
-**Today's Progress**:  
-**Key Notes**  
-**Thoughts:**  
-**Link to work:**
+**Today's Progress**: Today I worked on iCodeThis Challenge. I set up the repo to upload css challenges to github.
+
+**Link to work:**[iCodeThis Daily Challenge](https://iCodeThis.com/submissions/68840), [CSS Challenges Repo](https://github.com/ysanchez3d/css-practice)
 
 ### Day 15: Wednesday, February 14, 2024
 
