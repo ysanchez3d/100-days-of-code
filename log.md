@@ -188,10 +188,9 @@ Starting to enjoy CSS much more.
 
 ### Day 15: Wednesday, February 14, 2024
 
-**Today's Progress**:  
-**Key Notes**  
-**Thoughts:**  
-**Link to work:**
+**Today's Progress**: Today I kept improving my CSS. Link below
+
+**Link to work:**[iCode This Challenge](https://icodethis.com/submissions/69182)
 
 ### Day 16: Thursday, February 15, 2024
 
