@@ -194,17 +194,17 @@ Starting to enjoy CSS much more.
 
 ### Day 16: Thursday, February 15, 2024
 
-**Today's Progress**:  
-**Key Notes**  
-**Thoughts:**  
-**Link to work:**
+**Today's Progress**: Worked on the Weather app project. I ended up using weatherapi.com. I setup a node server to serve the files and had to do lots of api research to get the data I wanted.
+
+**Thoughts:** God i'm so sick of vanilla Javascript I felt like i was constantly doing stupid google searches for the smallest of things.
+
+**Link to work:**[Weather App Repo](https://github.com/ysanchez3d/weather-app)
 
 ### Day 17: Friday, February 16, 2024
 
-**Today's Progress**:  
-**Key Notes**  
-**Thoughts:**  
-**Link to work:**
+**Today's Progress**: Today I finish the Weather app. It took wayyyyy longer than I wanted to, but I learned quite a bit.
+
+**Link to work:**[Weather App Repo](https://github.com/ysanchez3d/weather-app)
 
 ### Day 18: Saturday, February 17, 2024
 
