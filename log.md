@@ -208,10 +208,9 @@ Starting to enjoy CSS much more.
 
 ### Day 18: Saturday, February 17, 2024
 
-**Today's Progress**:  
-**Key Notes**  
-**Thoughts:**  
-**Link to work:**
+**Today's Progress**: Today I made a profile panel card
+
+**Link to work:**[Profile Panel Card](https://github.com/ysanchez3d/css-practice/tree/main/account_panel)
 
 ### Day 19: Sunday, February 18, 2024
 
