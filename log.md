@@ -214,24 +214,19 @@ Starting to enjoy CSS much more.
 
 ### Day 19: Sunday, February 18, 2024
 
-**Today's Progress**:  
-**Key Notes**  
-**Thoughts:**  
-**Link to work:**
+**Today's Progress**: Worked on the billing cards css practice
+
+**Link to work:** [Billing Cards](https://github.com/ysanchez3d/css-practice/tree/main/billing_cards)
 
 ### Day 20: Monday, February 19, 2024
 
-**Today's Progress**:  
-**Key Notes**  
-**Thoughts:**  
-**Link to work:**
+**Today's Progress**: Worked on creating the quotes app. Allowing you to pick from a range of categories. Mostly worked on setting up the project, tryin to understand handleBars library. and getting the UI made.
+**Link to work:**[NONE]
 
 ### Day 21: Tuesday, February 20, 2024
 
-**Today's Progress**:  
-**Key Notes**  
-**Thoughts:**  
-**Link to work:**
+**Today's Progress**: Worked on the Quotes app. Very confused with server-side vs client side rendering since I'm using handlebars in the back-end. I find it confusing as to when re-render the page vs just sending a JSON back....as far as the API everything is pretty much rdy to go...
+**Link to work:**[NONE]
 
 ### Day 22: Wednesday, February 21, 2024
 
