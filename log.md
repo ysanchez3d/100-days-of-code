@@ -225,7 +225,7 @@ Starting to enjoy CSS much more.
 
 ### Day 21: Tuesday, February 20, 2024
 
-**Today's Progress**: Worked on the Quotes app. Very confused with server-side vs client side rendering since I'm using handlebars in the back-end. I find it confusing as to when re-render the page vs just sending a JSON back....as far as the API everything is pretty much rdy to go...
+**Today's Progress**: Worked on the Quotes app. Very confused with server-side vs client side rendering since I'm using handlebars in the back-end. I find it confusing as to when re-render the page vs just sending a JSON back...as far as the API everything is pretty much rdy to go...
 **Link to work:**[NONE]
 
 ### Day 22: Wednesday, February 21, 2024
